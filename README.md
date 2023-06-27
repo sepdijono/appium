@@ -1,14 +1,25 @@
 # Appium
 Appium Device Connection Setup
-For more info about this repository please read file: appium-tutorial.pdf
+How to install appium in robot framework project please read this : [Appium Tutorial](https://github.com/sepdijono/appium/blob/main/appium-tutorial.pdf)
 
-How to implement the python environment
+# Burp Suite 
+Burp Suite Certificate Setup
+How to download & install Burp Suite certificate please read this : [Burp Suite Certificate Installation](https://github.com/sepdijono/appium/blob/main/perform_test_avd_using_burpsuite.pdf)
 
-# Create Virtualenv
+# How to implement the python environment
+* Create Virtualenv
 ```
 python3 -m venv ~/venvs/automation
 ```
-# Install requirements.txt
+* Activate Virtualenv
+```
+source ~/your-venv-directory/bin/activate
+```
+* Deactivate Virtualenv : Run this in activated virtualenv
+```
+deactivate
+```
+* Install requirements.txt
 ```
 pip install -r requirements.txt
 ```
