@@ -12,6 +12,12 @@ https://github.com/sepdijono/appium/assets/54463742/d70cf145-4f71-4d9b-820d-1d3c
 Burp Suite Certificate Setup
 How to download & install Burp Suite certificate please read this : [Burp Suite Certificate Installation](https://github.com/sepdijono/appium/blob/main/perform_test_avd_using_burpsuite.pdf)
 
+
+
+https://github.com/sepdijono/appium/assets/54463742/38b38dd3-5e5b-4223-8eef-a025807cc4a3
+
+
+
 # Implementation
 * Create Virtualenv
 ```
